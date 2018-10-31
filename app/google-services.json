@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "165540066570",
+    "firebase_url": "https://bus-tracking-da9f3.firebaseio.com",
+    "project_id": "bus-tracking-da9f3",
+    "storage_bucket": "bus-tracking-da9f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165540066570:android:68f555aa8c5ec476",
+        "android_client_info": {
+          "package_name": "edu.unt.transportation.bustrackingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165540066570-kk5v8v6hmrt3h8hpva95u1eghrt62ns3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.unt.transportation.bustrackingsystem",
+            "certificate_hash": "0716329a01dd67d4cc96f96eff9a886a1d0ee60a"
+          }
+        },
+        {
+          "client_id": "165540066570-vgfq4cstfi6pspgd8chmd00vh94j0l2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0MQfxPBdQiqrG9UuPYdGycHr2ahfy58I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165540066570-vgfq4cstfi6pspgd8chmd00vh94j0l2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
