@@ -1,2 +1,2 @@
-# android-dev
-This repository contains the project developed for 'Software Engineering' course at University of North Texas
+# Kediri Dev
+Ini adalah kodingan untuk tracking bus dengan menggunakan direction pada tiap halte
